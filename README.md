@@ -11,7 +11,7 @@ cleandataproject
 * loads required data
 * binds data into one dataset
 
-### Add names to data7
+### Add names to dataframe
 
 * create names for variable columns
 
