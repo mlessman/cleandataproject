@@ -1,9 +1,14 @@
 cleandataproject
 ================
 
-1. Column Names
+### Data Source
 
+* http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+* https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
+### 1. Column Names
+
+'''
    Column Number                       Column Name
 1              1                         subjectid
 2              2                      activityname
@@ -93,13 +98,16 @@ cleandataproject
 86            86            fbodybodyaccjerkmagstd
 87            87               fbodybodygyromagstd
 88            88           fbodybodygyrojerkmagstd
+'''
 
-2.  Types of subject IDs
+### 2.  Types of subject IDs
+'''
         30 total subject IDs.  Labeled as the numbers 1 through 30.
+'''
 
+### 3.  Types of Activity Names
 
-3.  Types of Activity Names
-
+'''
   Activity Number      Activity Name
 1               1            WALKING
 2               2   WALKING_UPSTAIRS
@@ -107,3 +115,4 @@ cleandataproject
 4               4            SITTING
 5               5           STANDING
 6               6             LAYING
+'''
